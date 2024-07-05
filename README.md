@@ -42,16 +42,16 @@ This project focuses on predicting breast cancer using machine learning algorith
 ## Results
 
 - **Logistic Regression**:
-    - Training Accuracy: [Accuracy]
-    - Testing Accuracy: [Accuracy]
+    - Training Accuracy: 0.956
+    - Testing Accuracy: 0.934
 
 - **Random Forest Classifier**:
-    - Training Accuracy: [Accuracy]
-    - Testing Accuracy: [Accuracy]
+    - Training Accuracy: 0.976
+    - Testing Accuracy: 0.95
 
 - **XGBoost Classifier**:
-    - Training Accuracy: [Accuracy]
-    - Testing Accuracy: [Accuracy]
+    - Training Accuracy: 1.0
+    - Testing Accuracy: 0.98
 
 ## Conclusion
 
