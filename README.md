@@ -75,7 +75,7 @@ The project demonstrates the effective use of machine learning algorithms for br
 
 Feel free to reach out if you have any questions or suggestions.
 
-- **Email**: [My Mail](osamaoabobakr12@gmail.com)
+- **Email**: [My Mail](mailto:osamaoabobakr12@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/osama-abo-bakr-293614259/)
 
 ---
